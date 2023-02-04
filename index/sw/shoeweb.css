@@ -197,9 +197,6 @@ button{
     transition: 200ms;
     text-align: center;
 }
-.card_2:hover{
-    /* box-shadow: 4px 4px 5px #431a1b; */
-}
 .card_2>img{
     border-radius: 276px;
     /* box-shadow: 5px 5px 10px; */
