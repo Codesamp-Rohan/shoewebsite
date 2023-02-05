@@ -25,6 +25,9 @@
     .navbar{
         display: flex;
         flex-direction: row;
+    }  
+    .navhead{
+        filter: opacity(0);
     }   
     .video1{
         display: none;
